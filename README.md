@@ -30,10 +30,10 @@ pip install -r requirements.txt
 jupyter notebook ml_solubility.ipynb
 ```
 
-## 📁 Data Source
+## Data Source
 - [Delaney solubility dataset](https://raw.githubusercontent.com/dataprofessor/data/refs/heads/master/delaney_solubility_with_descriptors.csv)
 
-## 📷 Visualizations
+## Visualizations
 - Model prediction scatter plots
 - Regression lines for model fits
 
